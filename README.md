@@ -1,4 +1,6 @@
-TikTok Clicker
+
+▀█▀ █ █▄▀ ▀█▀ █▀█ █▄▀   █▀▀ █░░ █ █▀▀ █▄▀ █▀▀ █▀█
+░█░ █ █░█ ░█░ █▄█ █░█   █▄▄ █▄▄ █ █▄▄ █░█ ██▄ █▀▄
 
 Hello this is a basic python script, that just looking for position on your screen and if its founds a match it well click, this is made for education purpose only
 
@@ -22,11 +24,3 @@ pip install Pillow --upgrade
 should fix it
 
 NOTE: this is made to education purpose only
-
-
-████████╗██╗░░██╗░█████╗░███╗░░██╗██╗░░██╗░██████╗
-╚══██╔══╝██║░░██║██╔══██╗████╗░██║██║░██╔╝██╔════╝
-░░░██║░░░███████║███████║██╔██╗██║█████═╝░╚█████╗░
-░░░██║░░░██╔══██║██╔══██║██║╚████║██╔═██╗░░╚═══██╗
-░░░██║░░░██║░░██║██║░░██║██║░╚███║██║░╚██╗██████╔╝
-░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝╚═════╝░
